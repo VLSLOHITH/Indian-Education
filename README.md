@@ -18,3 +18,15 @@ URL=https://iitgoffice-my.sharepoint.com/:u:/g/personal/v_lakshmi_alumni_iitg_ac
 - Uttar Pradesh boasts the maximum total number of girls' and boys' schools, with the numbers being nearly equal.
 - Tamil Nadu stands out as the only region where the total number of female professional teachers exceeds that of male professional teachers.
 - Uttar Pradesh exhibits the highest levels of literacy among both males and females.
+
+## Government versus Private Schools
+
+![Screenshot 2024-02-21 093928](https://github.com/VLSLOHITH/Indian-Education/assets/84633352/4ac08f20-ae18-4ad7-9cd1-8dd827bb50a5)
+
+### Key Points:
+- Uttar Pradesh boasts the highest total number of schools.
+- The highest number of government schools is also found in Uttar Pradesh, constituting the highest percentage compared to private and unrecognized schools.
+- Madhya Pradesh has the most schools with a total strength of less than or equal to 50, followed by Uttar Pradesh.
+- Uttar Pradesh has the highest percentage of rural schools compared to other states, which also surpasses the percentage of private schools.
+- Most states have the highest percentage of government teachers, except for Kerala, Puducherry, and Goa.
+- In Lakshadweep, all teachers are from the government sector.
